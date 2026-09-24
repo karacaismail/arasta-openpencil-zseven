@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-24T18:08:53.145544+00:00",
+  "operation": "Restore final native .op to ZSeven live web canvas",
+  "status": 200,
+  "duration_ms": 2551.09,
+  "body_size": 7078561,
+  "response": {
+    "ok": true,
+    "version": 3
+  },
+  "recoveryNote": "Only the ZSeven web service that stalled in the capability probe was recovered; saved native data was restored. Penpot, open-pencil and native desktop apps were not restarted."
+}
