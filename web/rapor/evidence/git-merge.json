@@ -1,0 +1,13 @@
+{
+  "engine": "Git merge-file on isolated native JSON fixtures; native Git UI not exposed by this web runtime",
+  "disjoint": {
+    "exitCode": 0,
+    "validJson": true,
+    "gap": 20,
+    "radius": 4
+  },
+  "sameProperty": {
+    "exitCode": 1,
+    "conflictMarkers": true
+  }
+}

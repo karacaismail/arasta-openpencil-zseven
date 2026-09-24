@@ -1,0 +1,1095 @@
+{
+  "change": "ProductCard master vertical gap 12 → 16 px",
+  "masters": [
+    {
+      "master": "ProductCard/0/phone/narrow",
+      "id": "n2443",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 24
+    },
+    {
+      "master": "ProductCard/1/phone/narrow",
+      "id": "n2452",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/2/phone/narrow",
+      "id": "n2461",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/3/phone/narrow",
+      "id": "n2470",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/4/phone/narrow",
+      "id": "n2479",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 24
+    },
+    {
+      "master": "ProductCard/5/phone/narrow",
+      "id": "n2488",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/8/phone/narrow",
+      "id": "n2986",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/6/phone/narrow",
+      "id": "n3099",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/7/phone/narrow",
+      "id": "n3108",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/9/phone/narrow",
+      "id": "n3117",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/10/phone/narrow",
+      "id": "n3126",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/11/phone/narrow",
+      "id": "n3135",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/12/phone/narrow",
+      "id": "n3144",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/13/phone/narrow",
+      "id": "n3153",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/0/phone/regular",
+      "id": "n7485",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/1/phone/regular",
+      "id": "n7494",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/2/phone/regular",
+      "id": "n7503",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/3/phone/regular",
+      "id": "n7512",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/4/phone/regular",
+      "id": "n7521",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/5/phone/regular",
+      "id": "n7530",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/6/phone/regular",
+      "id": "n7539",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/7/phone/regular",
+      "id": "n7548",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/8/phone/regular",
+      "id": "n7557",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/9/phone/regular",
+      "id": "n7566",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/10/phone/regular",
+      "id": "n7575",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/11/phone/regular",
+      "id": "n7584",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/12/phone/regular",
+      "id": "n7593",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/13/phone/regular",
+      "id": "n7602",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/0/phoneL/narrow",
+      "id": "n8705",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/1/phoneL/narrow",
+      "id": "n8714",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/2/phoneL/narrow",
+      "id": "n8723",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/3/phoneL/narrow",
+      "id": "n8732",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/4/phoneL/narrow",
+      "id": "n8741",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/5/phoneL/narrow",
+      "id": "n8750",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/6/phoneL/narrow",
+      "id": "n8832",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/7/phoneL/narrow",
+      "id": "n8841",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/8/phoneL/narrow",
+      "id": "n8850",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/9/phoneL/narrow",
+      "id": "n8859",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/phoneL/narrow",
+      "id": "n8868",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/11/phoneL/narrow",
+      "id": "n8877",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/12/phoneL/narrow",
+      "id": "n8886",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/13/phoneL/narrow",
+      "id": "n8895",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/0/phoneL/regular",
+      "id": "n11436",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/1/phoneL/regular",
+      "id": "n11445",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/2/phoneL/regular",
+      "id": "n11454",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/3/phoneL/regular",
+      "id": "n11463",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/4/phoneL/regular",
+      "id": "n11472",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/5/phoneL/regular",
+      "id": "n11481",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/6/phoneL/regular",
+      "id": "n11490",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/7/phoneL/regular",
+      "id": "n11499",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/8/phoneL/regular",
+      "id": "n11508",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/9/phoneL/regular",
+      "id": "n11517",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/phoneL/regular",
+      "id": "n11526",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/11/phoneL/regular",
+      "id": "n11535",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/12/phoneL/regular",
+      "id": "n11544",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/13/phoneL/regular",
+      "id": "n11553",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/0/tablet/narrow",
+      "id": "n13759",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/1/tablet/narrow",
+      "id": "n13768",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/2/tablet/narrow",
+      "id": "n13777",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/3/tablet/narrow",
+      "id": "n13786",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/4/tablet/narrow",
+      "id": "n13795",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/5/tablet/narrow",
+      "id": "n13804",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/6/tablet/narrow",
+      "id": "n13813",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/7/tablet/narrow",
+      "id": "n13822",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/8/tablet/narrow",
+      "id": "n13831",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/9/tablet/narrow",
+      "id": "n13840",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/tablet/narrow",
+      "id": "n13894",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/11/tablet/narrow",
+      "id": "n13903",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/12/tablet/narrow",
+      "id": "n13912",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/13/tablet/narrow",
+      "id": "n13921",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/0/tablet/regular",
+      "id": "n15056",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/1/tablet/regular",
+      "id": "n15065",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/2/tablet/regular",
+      "id": "n15074",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/3/tablet/regular",
+      "id": "n15083",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/4/tablet/regular",
+      "id": "n15092",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/5/tablet/regular",
+      "id": "n15101",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/6/tablet/regular",
+      "id": "n15110",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/7/tablet/regular",
+      "id": "n15119",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/8/tablet/regular",
+      "id": "n15128",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/9/tablet/regular",
+      "id": "n15137",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/10/tablet/regular",
+      "id": "n15146",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/11/tablet/regular",
+      "id": "n15155",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/12/tablet/regular",
+      "id": "n15164",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/13/tablet/regular",
+      "id": "n15173",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/0/tabletL/regular",
+      "id": "n17359",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 18
+    },
+    {
+      "master": "ProductCard/1/tabletL/regular",
+      "id": "n17368",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/2/tabletL/regular",
+      "id": "n17377",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/3/tabletL/regular",
+      "id": "n17386",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/4/tabletL/regular",
+      "id": "n17395",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 18
+    },
+    {
+      "master": "ProductCard/5/tabletL/regular",
+      "id": "n17404",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/6/tabletL/regular",
+      "id": "n17413",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 9
+    },
+    {
+      "master": "ProductCard/7/tabletL/regular",
+      "id": "n17422",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 9
+    },
+    {
+      "master": "ProductCard/8/tabletL/regular",
+      "id": "n17431",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 9
+    },
+    {
+      "master": "ProductCard/9/tabletL/regular",
+      "id": "n17440",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/10/tabletL/regular",
+      "id": "n17490",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/11/tabletL/regular",
+      "id": "n17499",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/12/tabletL/regular",
+      "id": "n17508",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 9
+    },
+    {
+      "master": "ProductCard/13/tabletL/regular",
+      "id": "n17517",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/0/desktop/regular",
+      "id": "n20851",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 24
+    },
+    {
+      "master": "ProductCard/1/desktop/regular",
+      "id": "n20860",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/2/desktop/regular",
+      "id": "n20869",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/3/desktop/regular",
+      "id": "n20878",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/4/desktop/regular",
+      "id": "n20887",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 24
+    },
+    {
+      "master": "ProductCard/5/desktop/regular",
+      "id": "n20896",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 16
+    },
+    {
+      "master": "ProductCard/6/desktop/regular",
+      "id": "n20905",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/7/desktop/regular",
+      "id": "n20914",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/8/desktop/regular",
+      "id": "n20923",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/9/desktop/regular",
+      "id": "n20932",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/10/desktop/regular",
+      "id": "n20987",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 8
+    },
+    {
+      "master": "ProductCard/11/desktop/regular",
+      "id": "n20996",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/12/desktop/regular",
+      "id": "n21005",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 12
+    },
+    {
+      "master": "ProductCard/13/desktop/regular",
+      "id": "n21014",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/0/wide/regular",
+      "id": "n25802",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/1/wide/regular",
+      "id": "n25811",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/2/wide/regular",
+      "id": "n25820",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/3/wide/regular",
+      "id": "n25829",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/4/wide/regular",
+      "id": "n25838",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/5/wide/regular",
+      "id": "n25847",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/6/wide/regular",
+      "id": "n25856",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/7/wide/regular",
+      "id": "n25865",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/8/wide/regular",
+      "id": "n25874",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/9/wide/regular",
+      "id": "n25883",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/wide/regular",
+      "id": "n25946",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/11/wide/regular",
+      "id": "n25955",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/12/wide/regular",
+      "id": "n25964",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/13/wide/regular",
+      "id": "n25973",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/0/ultra/regular",
+      "id": "n27450",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/1/ultra/regular",
+      "id": "n27459",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/2/ultra/regular",
+      "id": "n27468",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/3/ultra/regular",
+      "id": "n27477",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/4/ultra/regular",
+      "id": "n27486",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/5/ultra/regular",
+      "id": "n27495",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/6/ultra/regular",
+      "id": "n27504",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/7/ultra/regular",
+      "id": "n27513",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/8/ultra/regular",
+      "id": "n27522",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/9/ultra/regular",
+      "id": "n27531",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/ultra/regular",
+      "id": "n27594",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/11/ultra/regular",
+      "id": "n27603",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/12/ultra/regular",
+      "id": "n27612",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/13/ultra/regular",
+      "id": "n27621",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/0/tv/regular",
+      "id": "n29086",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/1/tv/regular",
+      "id": "n29216",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/2/tv/regular",
+      "id": "n29225",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/3/tv/regular",
+      "id": "n29234",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/4/tv/regular",
+      "id": "n29243",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 6
+    },
+    {
+      "master": "ProductCard/5/tv/regular",
+      "id": "n29252",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 4
+    },
+    {
+      "master": "ProductCard/6/tv/regular",
+      "id": "n29261",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/7/tv/regular",
+      "id": "n29270",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/8/tv/regular",
+      "id": "n29279",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/9/tv/regular",
+      "id": "n29288",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/10/tv/regular",
+      "id": "n29297",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 2
+    },
+    {
+      "master": "ProductCard/11/tv/regular",
+      "id": "n29306",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/12/tv/regular",
+      "id": "n29315",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 3
+    },
+    {
+      "master": "ProductCard/13/tv/regular",
+      "id": "n29324",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 1
+    },
+    {
+      "master": "ProductCard/0/ultra/narrow",
+      "id": "n30849",
+      "beforeGap": 12.0,
+      "afterGap": 16,
+      "directInstances": 0
+    }
+  ],
+  "directInstances": 976,
+  "instanceOverridesWritten": 0,
+  "verifiedMasterCount": 155,
+  "verifiedInstances": 976,
+  "instanceCount": 976
+}

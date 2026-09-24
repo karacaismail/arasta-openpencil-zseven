@@ -1,0 +1,3874 @@
+[
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "360",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "375",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "390",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "430",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "480",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "667",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "844",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "ana-sayfa",
+    "textRuns": 116,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "panel",
+    "textRuns": 69,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "mobil-yatay",
+    "screen": "932",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "ana-sayfa",
+    "textRuns": 157,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "urun",
+    "textRuns": 91,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "karsilastirma",
+    "textRuns": 46,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "teklif-karsilastir",
+    "textRuns": 39,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "panel",
+    "textRuns": 75,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "600",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "ana-sayfa",
+    "textRuns": 157,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "urun",
+    "textRuns": 91,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "karsilastirma",
+    "textRuns": 46,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "teklif-karsilastir",
+    "textRuns": 39,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "panel",
+    "textRuns": 75,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "768",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "ana-sayfa",
+    "textRuns": 157,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "kategoriler",
+    "textRuns": 94,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "arama",
+    "textRuns": 125,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "urun",
+    "textRuns": 91,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "karsilastirma",
+    "textRuns": 46,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "tedarikciler",
+    "textRuns": 48,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "magaza",
+    "textRuns": 65,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "flash",
+    "textRuns": 108,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "teklif-iste",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "teklif-karsilastir",
+    "textRuns": 39,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "sepet",
+    "textRuns": 34,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "odeme",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "siparis",
+    "textRuns": 37,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "mesajlar",
+    "textRuns": 33,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "panel",
+    "textRuns": 75,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "giris",
+    "textRuns": 27,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "kayit",
+    "textRuns": 29,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "guvence",
+    "textRuns": 47,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "tedarikci-ol",
+    "textRuns": 39,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "yardim",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "hakkimizda",
+    "textRuns": 33,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-dikey",
+    "screen": "1024",
+    "page": "durumlar",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "ana-sayfa",
+    "textRuns": 154,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "kategoriler",
+    "textRuns": 91,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "arama",
+    "textRuns": 133,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "urun",
+    "textRuns": 88,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "karsilastirma",
+    "textRuns": 43,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "tedarikciler",
+    "textRuns": 45,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "magaza",
+    "textRuns": 62,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "flash",
+    "textRuns": 105,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "teklif-iste",
+    "textRuns": 33,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "teklif-karsilastir",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "sepet",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "odeme",
+    "textRuns": 32,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "siparis",
+    "textRuns": 34,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "mesajlar",
+    "textRuns": 30,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "panel",
+    "textRuns": 72,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "giris",
+    "textRuns": 24,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "kayit",
+    "textRuns": 26,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "guvence",
+    "textRuns": 44,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "tedarikci-ol",
+    "textRuns": 36,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "yardim",
+    "textRuns": 36,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "hakkimizda",
+    "textRuns": 30,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "960",
+    "page": "durumlar",
+    "textRuns": 28,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "ana-sayfa",
+    "textRuns": 154,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "kategoriler",
+    "textRuns": 91,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "arama",
+    "textRuns": 133,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "urun",
+    "textRuns": 88,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "karsilastirma",
+    "textRuns": 43,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "tedarikciler",
+    "textRuns": 45,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "magaza",
+    "textRuns": 62,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "flash",
+    "textRuns": 105,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "teklif-iste",
+    "textRuns": 33,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "teklif-karsilastir",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "sepet",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "odeme",
+    "textRuns": 32,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "siparis",
+    "textRuns": 34,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "mesajlar",
+    "textRuns": 30,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "panel",
+    "textRuns": 72,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "giris",
+    "textRuns": 24,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "kayit",
+    "textRuns": 26,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "guvence",
+    "textRuns": 44,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "tedarikci-ol",
+    "textRuns": 36,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "yardim",
+    "textRuns": 36,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "hakkimizda",
+    "textRuns": 30,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1024",
+    "page": "durumlar",
+    "textRuns": 28,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "ana-sayfa",
+    "textRuns": 154,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "kategoriler",
+    "textRuns": 91,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "arama",
+    "textRuns": 133,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "urun",
+    "textRuns": 88,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "karsilastirma",
+    "textRuns": 43,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "tedarikciler",
+    "textRuns": 45,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "magaza",
+    "textRuns": 62,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "flash",
+    "textRuns": 105,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "teklif-iste",
+    "textRuns": 33,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "teklif-karsilastir",
+    "textRuns": 36,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "sepet",
+    "textRuns": 31,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "odeme",
+    "textRuns": 32,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "siparis",
+    "textRuns": 34,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "mesajlar",
+    "textRuns": 30,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "panel",
+    "textRuns": 72,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "giris",
+    "textRuns": 24,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "kayit",
+    "textRuns": 26,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "guvence",
+    "textRuns": 44,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "tedarikci-ol",
+    "textRuns": 36,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "yardim",
+    "textRuns": 36,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "hakkimizda",
+    "textRuns": 30,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "tablet-yatay",
+    "screen": "1366",
+    "page": "durumlar",
+    "textRuns": 28,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1280",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1728",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "1920",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "masaustu",
+    "screen": "2560",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "ana-sayfa",
+    "textRuns": 163,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "kategoriler",
+    "textRuns": 100,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "arama",
+    "textRuns": 142,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "urun",
+    "textRuns": 97,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "karsilastirma",
+    "textRuns": 52,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "tedarikciler",
+    "textRuns": 54,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "magaza",
+    "textRuns": 71,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "flash",
+    "textRuns": 114,
+    "minimum": 5.056,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "teklif-iste",
+    "textRuns": 42,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "teklif-karsilastir",
+    "textRuns": 45,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "sepet",
+    "textRuns": 40,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "odeme",
+    "textRuns": 41,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "siparis",
+    "textRuns": 43,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "mesajlar",
+    "textRuns": 39,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "panel",
+    "textRuns": 81,
+    "minimum": 6.462,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "giris",
+    "textRuns": 33,
+    "minimum": 6.596,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "kayit",
+    "textRuns": 35,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "guvence",
+    "textRuns": 53,
+    "minimum": 5.396,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "tedarikci-ol",
+    "textRuns": 45,
+    "minimum": 6.382,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "yardim",
+    "textRuns": 45,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "hakkimizda",
+    "textRuns": 39,
+    "minimum": 6.946,
+    "failures": []
+  },
+  {
+    "cluster": "buyuk-ekran",
+    "screen": "3840",
+    "page": "durumlar",
+    "textRuns": 37,
+    "minimum": 6.113,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "ana-sayfa",
+    "textRuns": 153,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "kategoriler",
+    "textRuns": 90,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "arama",
+    "textRuns": 132,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "urun",
+    "textRuns": 87,
+    "minimum": 6.759,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "karsilastirma",
+    "textRuns": 42,
+    "minimum": 6.759,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "tedarikciler",
+    "textRuns": 44,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "magaza",
+    "textRuns": 61,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "flash",
+    "textRuns": 104,
+    "minimum": 7.234,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "teklif-iste",
+    "textRuns": 19,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "teklif-karsilastir",
+    "textRuns": 35,
+    "minimum": 6.759,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "sepet",
+    "textRuns": 30,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "odeme",
+    "textRuns": 19,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "siparis",
+    "textRuns": 33,
+    "minimum": 8.068,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "mesajlar",
+    "textRuns": 19,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "panel",
+    "textRuns": 71,
+    "minimum": 6.759,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "giris",
+    "textRuns": 19,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "kayit",
+    "textRuns": 19,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "guvence",
+    "textRuns": 43,
+    "minimum": 8.068,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "tedarikci-ol",
+    "textRuns": 35,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "yardim",
+    "textRuns": 35,
+    "minimum": 7.136,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "hakkimizda",
+    "textRuns": 29,
+    "minimum": 9.315,
+    "failures": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "durumlar",
+    "textRuns": 27,
+    "minimum": 7.136,
+    "failures": []
+  }
+]

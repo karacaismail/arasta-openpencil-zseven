@@ -1,0 +1,15 @@
+{
+  "screens": 484,
+  "passed": 484,
+  "interactionTests": 17,
+  "interactionPassed": 17,
+  "axePages": 50,
+  "axeViolations": 0,
+  "decodedQRCodes": 5,
+  "minimumTokenTextContrast": 5.056,
+  "nativeMastersChanged": 155,
+  "instancesVerified": 976,
+  "nativeRegistryListing": 0,
+  "nativeGitUI": "not available in this web/headless tool surface",
+  "nativeTeamSpeedup": null
+}

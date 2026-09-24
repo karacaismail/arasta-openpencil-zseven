@@ -1,0 +1,120 @@
+{
+  "teams": {
+    "error": "{'code': -32602, 'message': 'malformed tool call: unparseable or structured arguments'}"
+  },
+  "plan": {
+    "planId": "bd3f5c00-3eb5-4047-aa31-411ef2059520",
+    "executionPlan": [
+      {
+        "id": "sample",
+        "name": "Sample",
+        "nodeIds": [
+          "n2610"
+        ],
+        "role": "content",
+        "suggestedComponentName": "Sample",
+        "dependencies": [],
+        "nodes": [
+          {
+            "type": "frame",
+            "id": "n2610",
+            "name": "Export sample",
+            "width": 160.0,
+            "height": 48.0,
+            "children": [
+              {
+                "type": "text",
+                "id": "n2611",
+                "width": "fit_content",
+                "height": "fit_content",
+                "content": "Devam et",
+                "fontSize": 16.0
+              }
+            ]
+          }
+        ],
+        "order": 0,
+        "depContracts": []
+      }
+    ],
+    "warnings": []
+  },
+  "unsubmitted-react": {
+    "error": "{'content': [{'type': 'text', 'text': 'Error: codegen_assemble failed: Plan bd3f5c00-3eb5-4047-aa31-411ef2059520 is incomplete; pending chunks: sample. Submit each ready chunk before assembling. The plan remains available.'}], 'isError': True}"
+  },
+  "unsubmitted-html": {
+    "error": "{'content': [{'type': 'text', 'text': 'Error: codegen_assemble failed: Plan bd3f5c00-3eb5-4047-aa31-411ef2059520 is incomplete; pending chunks: sample. Submit each ready chunk before assembling. The plan remains available.'}], 'isError': True}"
+  },
+  "submit": {
+    "validation": {
+      "valid": true,
+      "issues": []
+    },
+    "progress": [
+      {
+        "step": "chunk",
+        "chunkId": "sample",
+        "name": "Sample",
+        "status": "done",
+        "attempts": 1,
+        "result": {
+          "chunkId": "sample",
+          "code": "export default function Sample(){return <button className=\"min-h-12 rounded-lg bg-blue-700 px-4 text-white\">Devam et</button>}",
+          "contract": {
+            "componentName": "Sample",
+            "props": [],
+            "slots": [],
+            "imports": []
+          }
+        }
+      }
+    ],
+    "submission": {
+      "chunkId": "sample",
+      "status": "done",
+      "attempt": 1,
+      "retryable": false
+    }
+  },
+  "assembled-react": {
+    "chunks": [
+      {
+        "chunkId": "sample",
+        "code": "export default function Sample(){return <button className=\"min-h-12 rounded-lg bg-blue-700 px-4 text-white\">Devam et</button>}",
+        "contract": {
+          "componentName": "Sample",
+          "props": [],
+          "slots": [],
+          "imports": []
+        }
+      }
+    ],
+    "contracts": [
+      {
+        "componentName": "Sample",
+        "props": [],
+        "slots": [],
+        "imports": []
+      }
+    ],
+    "dependencyGraph": {
+      "sample": []
+    },
+    "chunkStatuses": [
+      {
+        "chunkId": "sample",
+        "status": "done",
+        "attempts": 1,
+        "retryable": false
+      }
+    ],
+    "omittedChunks": [],
+    "partial": false,
+    "degraded": false,
+    "retryable": false,
+    "planRetained": false
+  },
+  "assembly-error": {
+    "error": "{'content': [{'type': 'text', 'text': 'Error: codegen_assemble failed: Plan bd3f5c00-3eb5-4047-aa31-411ef2059520 not found'}], 'isError': True}"
+  }
+}

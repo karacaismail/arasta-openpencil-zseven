@@ -1,0 +1,129 @@
+{
+  "tool": "ZSeven OpenPencil 0.8.2",
+  "scope": "Instrumented native MCP calls since the background generator started; initial GUI discovery is not fully covered.",
+  "calls": 623,
+  "successes": 612,
+  "successRate": 0.9823434991974318,
+  "p50Ms": 399.27,
+  "p95Ms": 1623.81,
+  "largestRequestBytes": 61737,
+  "storedNodes": 30141,
+  "screenFrames": 484,
+  "masters": 1680,
+  "references": 8542,
+  "variables": 149,
+  "nativeFileBytes": 20063798,
+  "perTool": {
+    "add_page": {
+      "calls": 10,
+      "p50Ms": 21.384999999999998,
+      "p95Ms": 35.39
+    },
+    "batch_design": {
+      "calls": 515,
+      "p50Ms": 425.99,
+      "p95Ms": 1610.44
+    },
+    "codegen_assemble": {
+      "calls": 4,
+      "p50Ms": 1.3399999999999999,
+      "p95Ms": 1.93
+    },
+    "codegen_clean": {
+      "calls": 1,
+      "p50Ms": 0.88,
+      "p95Ms": 0.88
+    },
+    "codegen_plan": {
+      "calls": 2,
+      "p50Ms": 11.935,
+      "p95Ms": 3.52
+    },
+    "codegen_submit_chunk": {
+      "calls": 1,
+      "p50Ms": 3.05,
+      "p95Ms": 3.05
+    },
+    "delete_node": {
+      "calls": 8,
+      "p50Ms": 1070.56,
+      "p95Ms": 1099.69
+    },
+    "delete_page": {
+      "calls": 1,
+      "p50Ms": 4.58,
+      "p95Ms": 4.58
+    },
+    "get_document_info": {
+      "calls": 2,
+      "p50Ms": 18.87,
+      "p95Ms": 10.63
+    },
+    "get_screenshot": {
+      "calls": 7,
+      "p50Ms": 7811.55,
+      "p95Ms": 9019.18
+    },
+    "lint_document": {
+      "calls": 1,
+      "p50Ms": 89.02,
+      "p95Ms": 89.02
+    },
+    "list_components": {
+      "calls": 2,
+      "p50Ms": 9.565,
+      "p95Ms": 2.95
+    },
+    "list_pages": {
+      "calls": 18,
+      "p50Ms": 1.8,
+      "p95Ms": 3.31
+    },
+    "rename_page": {
+      "calls": 1,
+      "p50Ms": 2.18,
+      "p95Ms": 2.18
+    },
+    "save_document": {
+      "calls": 30,
+      "p50Ms": 465.06,
+      "p95Ms": 914.39
+    },
+    "set_active_page": {
+      "calls": 5,
+      "p50Ms": 2.32,
+      "p95Ms": 3.04
+    },
+    "set_design_md": {
+      "calls": 1,
+      "p50Ms": 1125.82,
+      "p95Ms": 1125.82
+    },
+    "set_themes": {
+      "calls": 3,
+      "p50Ms": 8.55,
+      "p95Ms": 8.55
+    },
+    "set_variables": {
+      "calls": 3,
+      "p50Ms": 6.2,
+      "p95Ms": 6.2
+    },
+    "snapshot_layout": {
+      "calls": 4,
+      "p50Ms": 4853.5599999999995,
+      "p95Ms": 4893.15
+    },
+    "spawn_agents": {
+      "calls": 3,
+      "p50Ms": 6466.11,
+      "p95Ms": 6466.11
+    },
+    "update_node": {
+      "calls": 1,
+      "p50Ms": 6.32,
+      "p95Ms": 6.32
+    }
+  },
+  "timingCaveat": "batch_design calls contain up to 20 component operations or 3 screens. These are call latencies, not exact isolated per-frame latencies."
+}

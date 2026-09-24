@@ -1,0 +1,86 @@
+[
+  {
+    "status": "UYUM",
+    "title": "Yerel üretim",
+    "finding": "22 sayfa × 22 cihaz = 484 frame; 1.680 reusable master, 8.542 ref ve 149 değişken yerel MCP ile yazıldı. Phosphor çizimleri path düğümleri; fotoğraf, SVG/HTML tasarım içe aktarımı yok.",
+    "evidence": "design/arasta.op; generator-state.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Arka plan çalışması",
+    "finding": "Üretim ve Chromium testleri Colima factory içindeki Linux konteynerlerinde yapıldı. Masaüstü uygulamasına son iş akışında müdahale edilmedi.",
+    "evidence": "calls.jsonl; browser/results.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Üçüncü tur yayılımı",
+    "finding": "155 ProductCard master’ının dikey aralığı 12 → 16 px değiştirildi. 976 doğrudan ref, kendi gap override’ı olmadan yeni değeri kullanıyor.",
+    "evidence": "master-round3.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Frontend kalite kapısı",
+    "finding": "484/484 ekran gerçek CSS genişliğinde açıldı: HTTP 200, yatay taşma yok, 16 px altı metin yok, 12 px üstü radius yok, etiketsiz kontrol yok, tek h1. 17 etkileşim testi geçti.",
+    "evidence": "browser/results.json; browser/interactions.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Erişilebilirlik ek denetimi",
+    "finding": "320 ve 1440 genişliğindeki 22’şer sayfa ile 6 TV sayfasında axe WCAG A/AA kuralları: 50 sayfada 0 ihlal. 484 yerel ağaçta semantik metin renklerinin en düşük kontrastı 5,056:1.",
+    "evidence": "browser/axe.json; token-contrast.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "TV telefon bağlantısı",
+    "finding": "Giriş, ödeme, teklif, kayıt ve mesajlar ekranlarındaki 5 QR gerçek hedef URL’ye çözüldü. K74QX bir örnek cihaz kodudur; canlı oturum eşleştirmesi değildir.",
+    "evidence": "browser/axe.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Bileşen ve varyant API’si",
+    "finding": "Reusable master/ref bağlantıları çalışıyor. Durumlar ayrı adlandırılmış master’lardır. list_components bu runtime’da 0 döndürdü; yerel varyant eksenleri/paneli doğrulanmış kabul edilmedi.",
+    "evidence": "capabilities-isolated.json; calls.jsonl"
+  },
+  {
+    "status": "DİRENÇ",
+    "title": "Yerleşim ve null patch",
+    "finding": "Master’ın kütüphane x/y konumu instance’a miras kaldı. x/y=0 ref’leri üst üste bindirdi; U(x:null) koordinatı kaldırmadı. Master’lar koordinatsız yeniden üretildi, kütüphane konumu dış kapsayıcıya taşındı.",
+    "evidence": "browser-round1-sample.json; calls.jsonl"
+  },
+  {
+    "status": "DİRENÇ",
+    "title": "Agent Teams",
+    "finding": "Web runtime’ındaki spawn_agents çağrısı 180 saniyede istemci zaman aşımına ulaştı ve servis yoğun kaldı. Kaydedilmiş .op ile ayrı headless süreçte devam edildi; web servisi dosya korunarak geri yüklendi. Headless denemesi yapılandırılmış config argümanını -32602 ile reddetti. Gerçek paralel agent üretimi ve hızlanma ölçülmedi.",
+    "evidence": "calls.jsonl; capabilities-isolated.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Kod dışa aktarımı",
+    "finding": "codegen_plan/submit/assemble hattı, dışarıdan verilen React parçasını doğrulayıp paketledi. Eksik parça doğru hata verdi; başarılı assemble planı tüketti. AI modeli bağlı olmadığı için otonom React/HTML üretimi ve otomatik export görsel sadakati ölçülemedi. Frontend, kaydedilmiş native ağacın deterministik HTML adaptörüdür.",
+    "evidence": "capabilities-isolated.json; web/tools/export_frontend.py"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Görsel sadakat",
+    "finding": "320 px native render ile frontend incelendi. Native metin ölçümü, hug/fill ve flex davranışında farklar var; HTML adaptörü min-width, sarma, semantik etiketler ve kaydırmayı ayrıca uygular. Piksel düzeyinde 1:1 eşitlik iddia edilmez.",
+    "evidence": "native-final-320.png; browser/mobil-dikey-320.png"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Git birleştirme",
+    "finding": "Yerel ZSeven Git branch/merge arayüzü bu web/headless API’de sunulmuyor. Harici git merge-file testinde ayrı alanlar geçerli JSON olarak birleşti; aynı alan çakışması conflict marker üretti. Bu, yerel Git özelliği testi değildir.",
+    "evidence": "git-merge.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Lisans ve kapsam",
+    "finding": "Güncel paketlerde Roboto ve Roboto Mono lisansı SIL OFL 1.1; briefteki Apache-2.0 ifadesi bu dosyalara uygulanamaz. Gerçek lisanslar aynen saklandı. AI, kimlik doğrulama, mesajlaşma ve ödeme backend’i bağlı değildir; etkileşimler yerel örnek akışlardır.",
+    "evidence": "web/assets/Roboto-LICENSE.txt; web/assets/RobotoMono-LICENSE.txt"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Ölçüm kapsamı",
+    "finding": "Log, enstrümantasyon başladıktan sonraki native MCP çağrılarını içerir; ilk keşif/önceki GUI denemelerinin eksiksiz kaydı değildir. p50/p95 çağrı bazındadır; batch başına en çok 3 ekran olduğundan tek frame gecikmesi diye sunulmaz. 100 KB sınırı ve 120 saniye iptal davranışı doğrudan eşik testiyle ölçülmedi.",
+    "evidence": "metrics.json; calls.jsonl"
+  }
+]

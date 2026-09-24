@@ -1,0 +1,102 @@
+[
+  {
+    "dimension": "Kurulum",
+    "penpot": "Referans yayını mevcut; yeniden kurulmadı.",
+    "zseven": "UYUM · Çalışan v0.8.2 + ayrı Linux worker."
+  },
+  {
+    "dimension": "Bağlantı",
+    "penpot": "Penpot + MCP; bu turda yeniden ölçülmedi.",
+    "zseven": "UYUM · HTTP MCP ve op CLI."
+  },
+  {
+    "dimension": "Başsız çalışma",
+    "penpot": "Briefte arka plan heartbeat riski bildirilmiş.",
+    "zseven": "UYUM/KISMİ · GUI olmadan üretim; Teams çağrısı takıldı."
+  },
+  {
+    "dimension": "Dosya biçimi",
+    "penpot": "Sunucu tabanlı Penpot belgesi.",
+    "zseven": "UYUM · Yaklaşık 20 MB, okunabilir .op JSON."
+  },
+  {
+    "dimension": "Ölçek",
+    "penpot": "Aynı 484 ekran hedefi; eş zamanlı benchmark yok.",
+    "zseven": "UYUM · 484 frame, 30.141 kayıtlı düğüm."
+  },
+  {
+    "dimension": "Token API",
+    "penpot": "Kütüphane renkleri ve cihaz temaları.",
+    "zseven": "UYUM · 149 değişken, Light/Dark + 8 Cihaz teması."
+  },
+  {
+    "dimension": "Master bağlantıları",
+    "penpot": "Referans bileşen yaklaşımı.",
+    "zseven": "UYUM · 976 ref üzerinde master değişikliği doğrulandı."
+  },
+  {
+    "dimension": "Varyantlar",
+    "penpot": "Briefte grup başına tek varyant listeleme sorunu.",
+    "zseven": "KISMİ · Adlandırılmış durum master’ları; registry 0."
+  },
+  {
+    "dimension": "Auto layout",
+    "penpot": "Briefte hug/fill ve resize sıfırlama sorunları.",
+    "zseven": "DİRENÇ · x/y mirası ve null patch davranışı."
+  },
+  {
+    "dimension": "Font çözümü",
+    "penpot": "Briefte fuzzy font lookup riski.",
+    "zseven": "KISMİ · Roboto ismi native; web kendi WOFF2 dosyalarını kullanır."
+  },
+  {
+    "dimension": "Vektör/ikon",
+    "penpot": "Karşılaştırma için kopyalanmadı.",
+    "zseven": "UYUM · 80 UI ikon × 4 boyut; Phosphor native path."
+  },
+  {
+    "dimension": "İstek boyutu",
+    "penpot": "Briefte 100 KB sınırı.",
+    "zseven": "KISMİ · En büyük gözlenen istek 61737 bayt; sınır bulunmadı."
+  },
+  {
+    "dimension": "Timeout/iptal",
+    "penpot": "Briefte 120 saniye ve iptal yokluğu.",
+    "zseven": "DİRENÇ · Teams için 180 saniye istemci timeout; yerel iptal aracı yok."
+  },
+  {
+    "dimension": "Yazma gecikmesi",
+    "penpot": "Eş donanımda ölçülmedi.",
+    "zseven": "ÖLÇÜM · Çağrı p50 399.27 ms; p95 1623.81 ms."
+  },
+  {
+    "dimension": "Hata kalitesi",
+    "penpot": "Briefte farklı direnç örnekleri.",
+    "zseven": "KISMİ · Ayrıntılı patch hataları; bazı null işlemler sessizce etkisiz."
+  },
+  {
+    "dimension": "Kod export",
+    "penpot": "Referans implementasyonu görüntülendi, kodu alınmadı.",
+    "zseven": "KISMİ · Chunk assembler var; otonom AI export doğrulanmadı."
+  },
+  {
+    "dimension": "Paralel ajan",
+    "penpot": "Bu çalışmada Penpot ajan testi yapılmadı.",
+    "zseven": "DİRENÇ · Native Teams yürütümü ve hızlanma yok."
+  },
+  {
+    "dimension": "Git/merge",
+    "penpot": "Bu çalışmada Penpot merge testi yapılmadı.",
+    "zseven": "KISMİ · JSON merge dış Git ile test edildi; native UI sunulmadı."
+  },
+  {
+    "dimension": "Erişilebilirlik",
+    "penpot": "Referans görsel karşılaştırma; yeniden tam denetim yok.",
+    "zseven": "UYUM · 484 geometri/form kontrolü, 50 axe sayfası, 17 etkileşim."
+  },
+  {
+    "dimension": "Round trip/sadakat",
+    "penpot": "Briefte Figma round trip A aracına özgü.",
+    "zseven": "KISMİ · .op yeniden açıldı ve render edildi; piksel eşitliği yok."
+  }
+]
